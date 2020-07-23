@@ -3,7 +3,7 @@
 Anomaly/ Outlier detection has picked up wind in recent days, owing to its applications in cyber security and server monitoring. This repo explores how to use count vectors and identify anomalies through unsupervised learning.
 
 ## About Dataset
-The dataset is a logs data from a remote server generated over 15 days. This dataset is created post cleaning and picking only relevant events on which we wish to identify anomalies. 
+The dataset is a logs data from a remote server generated over 15 days. This dataset is created post cleaning and picking only relevant events on which we wish to identify anomalies.I collected this from kaggle.
 
 Columns: 
   - Timestamp of the log
